@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Likhitha R
   
 - 🎓 **Education:**  
-  Bachelor's in Computer Applixations (BCA) - University of Mysore
+  Bachelor's in Computer Applications (BCA) - University of Mysore
   📜 Graduated in 2023 with specialization in Computer Science and a focus on Data Science & AI
   
 - 🚀 ** Artificial Intelligence and Machine Learning Enthusiast**
