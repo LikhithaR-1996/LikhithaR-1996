@@ -7,7 +7,6 @@
 - 🚀 ** Artificial Intelligence and Machine Learning Enthusiast**
 - 💡 Passionate about AI and Machine Learning
  🛠️ Skilled in Python, Machine Learning, Statistics and prompt engineering.
-- 👀 I’m interested in ...
 - 🌱 I’m currently focusing on LLMs, AI agents and Generative AI
   
   Connect with me 
