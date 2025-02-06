@@ -18,5 +18,5 @@
 - ⚡ "If you change the way you look at things, things you look at changes"
 
 ![WhatsApp Image 2025-01-04 at 10 53 32 PM](https://github.com/user-attachments/assets/b61893bd-cf6d-48d5-8255-202de3b4c18c)
-![WhatsApp Image 2025-01-04 at 10 53 29 PM](https://github.com/user-attachments/assets/7b282094-9fe6-4925-b323-6b5a887a9815)
+
 
